@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<metacharset=utf-8" />
+<meta charset="utf-8" />
 <style type="text/css">
 body{
 	font: "Microsoft YaHei UI", "Microsoft YaHei UI Light", "微软雅黑";
