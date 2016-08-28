@@ -1,47 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<style type="text/css">
-body{
-	font: "Microsoft YaHei UI", "Microsoft YaHei UI Light", "微软雅黑";
-	display: inline;
-	}
-h1{ 
-	font-family:myfont; 
-	text-shadow:0px 2px 2px #666;
-}
-h2{ 
-	font-family:myfont;
-	text-shadow:2px 2px 2px #999999;
-}
-.noshadow{ 
-	text-shadow:0px 0px 0px #FFFFFF;
-}
-#nav{ 
-	list-style-type:none;
-}
-.item{
-	display: inline;
-	float: left;
-	font-size: 16px;
-	width: auto;
-	padding: 10px;
-	background-color: #0CF;
-	font-weight: bold;
-	border: thick;
-	border-style: outset;
-	border-color: #0CF;
-}
-.item a{
-	text-decoration: none;
-	color: #000;
-}
-.item:hover{
-	background-color: #03F;
-	border: medium inset #03F;
-}
-</style>
+<meta charset="utf-8" />
 <title>HTML总结</title>
 </head>
 
@@ -225,12 +185,5 @@ h2{
      </table>
      <li><h2><abbr title="（Uniform Resource Locators）">URL</abbr>统一资源定位器（Uniform Resource Locators）</h2></li>
   </ol>
-  <ul id="nav">
-     <li class="item"><a href="#">主页</a></li>
-     <li class="item"><a href="#">产品</a></li>
-     <li class="item"><a href="#">理念</a></li>
-     <li class="item"><a href="#">合作</a></li>
-     <li class="item"><a href="#">About Us</a></li>
-  </ul>
 </body>
 </html>
